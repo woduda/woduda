@@ -75,5 +75,6 @@ I work best at the intersection of business and technology: listening to busines
 - **Email:** wo.duda@gmail.com
 
 ---
+![](https://komarev.com/ghpvc/?username=woduda&style=flat-square&color=blueviolet)
 
 <sub>This profile is for my open source work and public engineering. My day job is at Bibby Financial Services Poland.</sub>
